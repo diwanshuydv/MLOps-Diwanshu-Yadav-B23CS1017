@@ -49,8 +49,8 @@ We trained ResNet-18 and ResNet-50 from scratch (pretrained=False) with a **70-1
 | **ResNet-50** | **16** | **Adam** | **0.0001** | **99.26** |
 | ResNet-18 | 32 | SGD | 0.001 | 98.96 |
 | ResNet-50 | 32 | SGD | 0.001 | 98.42 |
-| ResNet-18 | 32 | Adam | 0.0001 | 98.10 |
-| ResNet-50 | 32 | Adam | 0.0001 | 97.80 |
+| ResNet-18 | 32 | Adam | 0.0001 | 98.80 |
+| ResNet-50 | 32 | Adam | 0.0001 | 98.90 |
 
 ---
 
