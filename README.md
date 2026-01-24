@@ -68,9 +68,10 @@ Comparison of training time and computational cost (FLOPs) between CPU and GPU e
 
 | Compute Device | Model | Test Acc (%) | Train Time (ms) | FLOPs |
 | :--- | :--- | :---: | :---: | :---: |
-| **CPU** | ResNet-18 | ... | 656,216 | ... |
-| **CPU** | ResNet-50 | ... | ... | ... |
-| **GPU** | ResNet-18 | ... | 73,544 | ... |
-| **GPU** | ResNet-50 | ... | 153,237 | ... |
+| **CPU** | ResNet-18 | 75.52 | 656,216 | 66,368,000 |
+| **CPU** | ResNet-50 | 68.86 | 1,478,222 | 157,510,144 |
+| **GPU** | ResNet-18 | 76.38 | 73,544 | 66,368,000 |
+| **GPU** | ResNet-50 | 62.75 | 153,237 | 157,510,144 |
 
-> **Observation:** Training on GPU provided approximately a **9x speedup** compared to CPU for ResNet-18.
+> **Observation:** > * **Speedup:** Training on GPU provided approximately a **8.9x speedup** compared to CPU for ResNet-18 (73s vs 656s).
+> * **Complexity:** ResNet-50 requires ~2.3x more FLOPs than ResNet-18, which is reflected in the doubling of training time on the GPU.
