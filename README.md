@@ -2,7 +2,7 @@
 
 **Author:** Diwanshu Yadav 
 **Roll Number:** B23CS1017
-**Course:** Deep Learning Ops (DLOPs)  
+**Course:** ML-DLOPs  
 **Submission Deadline:** 24/01/2026
 
 ---
