@@ -100,5 +100,5 @@ Ray Tune with OptunaSearch efficiently explored the hyperparameter space, while 
 | File | Description |
 |------|-------------|
 | `b23cs1017_ass_4_tuned_en_to_hi.py` | Modified script with Ray Tune implementation |
-| `b23cs1017_ass_4_report.pdf` | This report |
+| `b23cs1017_ass_4_report.pdf` | Uploaded in this branch |
 | `b23cs1017_ass_4_best_model.pth` | Saved weights of the best model at hugging face (https://huggingface.co/Diwanshuydv/MLOps-asign4/blob/main/b23cs1017_ass_4_best_model.pth)|
