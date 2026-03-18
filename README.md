@@ -73,7 +73,7 @@ After running 20 trials with early stopping, the best configuration was:
 
 ## 4. Final Metrics of Best Model
 
-| Metric | Baseline (100 epochs) | Best Tuned Model (≤50 epochs) |
+| Metric | Best Model
 |--------|----------------------|-------------------------------|
 | **Epochs** | 50 |
 | **Training Time** |   53 min |
