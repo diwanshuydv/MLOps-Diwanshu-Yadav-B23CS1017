@@ -101,4 +101,4 @@ Ray Tune with OptunaSearch efficiently explored the hyperparameter space, while 
 |------|-------------|
 | `rollno_ass_4_tuned_en_to_hi.py` | Modified script with Ray Tune implementation |
 | `rollno_ass_4_report.pdf` | This report |
-| `rollno_ass_4_best_model.pth` | Saved weights of the best model |
+| `rollno_ass_4_best_model.pth` | Saved weights of the best model at hugging face (https://huggingface.co/Diwanshuydv/MLOps-asign4/blob/main/rollno_ass_4_best_model.pth)|
