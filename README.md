@@ -75,10 +75,10 @@ After running 20 trials with early stopping, the best configuration was:
 
 | Metric | Baseline (100 epochs) | Best Tuned Model (≤50 epochs) |
 |--------|----------------------|-------------------------------|
-| **Epochs** | 100 | ≤50 |
-| **Training Time** | ~53 min | < 53 min (ASHA early stopped many trials) |
-| **Final Loss** | 0.0974 | 0.1588 |
-| **BLEU Score** | 52.47% | 59.44% |
+| **Epochs** | 50 |
+| **Training Time** |   53 min |
+| **Final Loss** |  0.1562 |
+| **BLEU Score** |  72.80% |
 
 ### Key Observations
 
