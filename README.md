@@ -73,12 +73,12 @@ After running 20 trials with early stopping, the best configuration was:
 
 ## 4. Final Metrics of Best Model
 
-| Metric | Best Model
-|--------|----------------------|-------------------------------|
+| Metric | Best Model |
+|--------|------------|
 | **Epochs** | 50 |
-| **Training Time** |   53 min |
-| **Final Loss** |  0.1562 |
-| **BLEU Score** |  72.80% |
+| **Training Time** | 17 min |
+| **Final Loss** | 0.1562 |
+| **BLEU Score** | 72.80% |
 
 ### Key Observations
 
