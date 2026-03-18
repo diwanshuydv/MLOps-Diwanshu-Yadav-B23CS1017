@@ -67,7 +67,7 @@ After running 20 trials with early stopping, the best configuration was:
 | d_ff | 1024 |
 | Dropout | 0.1077 |
 
-> **Note:** Run `python rollno_ass_4_tuned_en_to_hi.py` to populate these values. The script prints the best configuration upon completion.
+> **Note:** Run `python b23cs1017_ass_4_tuned_en_to_hi.py` to populate these values. The script prints the best configuration upon completion.
 
 ---
 
@@ -99,6 +99,6 @@ Ray Tune with OptunaSearch efficiently explored the hyperparameter space, while 
 
 | File | Description |
 |------|-------------|
-| `rollno_ass_4_tuned_en_to_hi.py` | Modified script with Ray Tune implementation |
-| `rollno_ass_4_report.pdf` | This report |
-| `rollno_ass_4_best_model.pth` | Saved weights of the best model at hugging face (https://huggingface.co/Diwanshuydv/MLOps-asign4/blob/main/rollno_ass_4_best_model.pth)|
+| `b23cs1017_ass_4_tuned_en_to_hi.py` | Modified script with Ray Tune implementation |
+| `b23cs1017_ass_4_report.pdf` | This report |
+| `b23cs1017_ass_4_best_model.pth` | Saved weights of the best model at hugging face (https://huggingface.co/Diwanshuydv/MLOps-asign4/blob/main/b23cs1017_ass_4_best_model.pth)|
